@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "https://www.tkglaser.net/app-nehmen/index.html",
+  "index": "https://www.tkglaser.net/app-nehmen/app-nehmen/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://www.tkglaser.net/app-nehmen/favicon.ico",
-        "https://www.tkglaser.net/app-nehmen/index.html",
-        "https://www.tkglaser.net/app-nehmen/main.5cf71e7d5b9eb04c986f.js",
-        "https://www.tkglaser.net/app-nehmen/manifest.json",
-        "https://www.tkglaser.net/app-nehmen/polyfills.20ab2d163684112c2aba.js",
-        "https://www.tkglaser.net/app-nehmen/runtime.ec2944dd8b20ec099bf3.js",
-        "https://www.tkglaser.net/app-nehmen/styles.5cf6e9776ea88cb348a1.css"
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/favicon.ico",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/index.html",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/main.5cf71e7d5b9eb04c986f.js",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/manifest.json",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/polyfills.20ab2d163684112c2aba.js",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/runtime.ec2944dd8b20ec099bf3.js",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/styles.5cf6e9776ea88cb348a1.css"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
@@ -25,35 +25,35 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://www.tkglaser.net/app-nehmen/assets/icons/icon-128x128.png",
-        "https://www.tkglaser.net/app-nehmen/assets/icons/icon-144x144.png",
-        "https://www.tkglaser.net/app-nehmen/assets/icons/icon-152x152.png",
-        "https://www.tkglaser.net/app-nehmen/assets/icons/icon-192x192.png",
-        "https://www.tkglaser.net/app-nehmen/assets/icons/icon-384x384.png",
-        "https://www.tkglaser.net/app-nehmen/assets/icons/icon-512x512.png",
-        "https://www.tkglaser.net/app-nehmen/assets/icons/icon-72x72.png",
-        "https://www.tkglaser.net/app-nehmen/assets/icons/icon-96x96.png"
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-128x128.png",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-144x144.png",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-152x152.png",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-192x192.png",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-384x384.png",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-512x512.png",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-72x72.png",
+        "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://www.tkglaser.net/app-nehmen/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://www.tkglaser.net/app-nehmen/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://www.tkglaser.net/app-nehmen/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://www.tkglaser.net/app-nehmen/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://www.tkglaser.net/app-nehmen/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://www.tkglaser.net/app-nehmen/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://www.tkglaser.net/app-nehmen/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://www.tkglaser.net/app-nehmen/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://www.tkglaser.net/app-nehmen/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://www.tkglaser.net/app-nehmen/index.html": "b303e148eae4300a8367498e6b0222b2d7a8d78a",
-    "https://www.tkglaser.net/app-nehmen/main.5cf71e7d5b9eb04c986f.js": "1c18135da837a904878bf3bfada2022b4e7c2a73",
-    "https://www.tkglaser.net/app-nehmen/manifest.json": "41b26383109e672a4ae8d0a44dd5ca5fdfc7d4a4",
-    "https://www.tkglaser.net/app-nehmen/polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
-    "https://www.tkglaser.net/app-nehmen/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://www.tkglaser.net/app-nehmen/styles.5cf6e9776ea88cb348a1.css": "d327f87fba7e0fe0507410c6cc43908e0449ae6f"
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/index.html": "b7f2e4558bae04ed35e332debe6fd9851af4a630",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/main.5cf71e7d5b9eb04c986f.js": "1c18135da837a904878bf3bfada2022b4e7c2a73",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/manifest.json": "41b26383109e672a4ae8d0a44dd5ca5fdfc7d4a4",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://www.tkglaser.net/app-nehmen/app-nehmen/styles.5cf6e9776ea88cb348a1.css": "d327f87fba7e0fe0507410c6cc43908e0449ae6f"
   },
   "navigationUrls": [
     {
